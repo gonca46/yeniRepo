@@ -5,6 +5,7 @@ public class Class01 {
         System.out.println("v3 kodları");//v3
         //v4 kısayoldan commit
         //V5
+        //gitHub değişiklikleri
 
     }
 }
